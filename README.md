@@ -1,4 +1,4 @@
-# app-privacy-policies
+# vibeprogramminglab-privacy-policies
 
 앱 개인정보 처리 방침 문서를 호스팅하기 위한 저장소입니다.
 
